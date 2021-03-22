@@ -18,7 +18,7 @@ Explore the use of an HTML template to see the its benefits, see how Tailwind CS
 
 ## Screenshots
 
-![Screenshot](./images/screenshot.png)
+![Screenshot](https://user-images.githubusercontent.com/57517804/111936234-3f1c1d00-8b00-11eb-84eb-85c65fb4d501.png)
 
 [Demo]()
 
