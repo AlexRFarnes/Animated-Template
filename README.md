@@ -32,7 +32,7 @@ Explore the use of an HTML template to see the its benefits, see how Tailwind CS
 
 List of features ready and TODOs for future development
 
-- Template based website: [Creative Tim](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)
+- Template based website [Creative Tim](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)
 - Animation on Scroll JS library [AOS](https://michalsnik.github.io/aos/)
 
 ## Status
